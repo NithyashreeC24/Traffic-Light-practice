@@ -17,4 +17,4 @@ It demonstrates how traffic signals work with **Stop, Ready, and Go** buttons th
 - **JavaScript** – Functionality  
 
 ## 🚀 Live Demo
-👉 [Traffic Light Preview]()
+👉 ![Traffic Light Preview](traffic-light-demo.gif)
